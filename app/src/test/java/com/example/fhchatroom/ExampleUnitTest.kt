@@ -1,4 +1,4 @@
-package com.example.FhChatRoom
+package com.example.fhchatroom
 
 import org.junit.Test
 

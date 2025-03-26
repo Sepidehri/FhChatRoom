@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:613478771213:android:d3f0a6b6bf3b706bb74344",
+        "mobilesdk_app_id": "1:613478771213:android:6ee310edf209f8a7b74344",
         "android_client_info": {
-          "package_name": "com.example.FhCatroom"
+          "package_name": "com.example.fhchatroom"
         }
       },
       "oauth_client": [],

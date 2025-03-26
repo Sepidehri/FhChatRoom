@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.FhChatRoom"
+    namespace = "com.example.fhchatroom"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.FhChatRoom"
+        applicationId = "com.example.fhchatroom"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -46,4 +46,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(platform("com.google.firebase:firebase-bom:33.11.0"))
     implementation("com.google.firebase:firebase-analytics")
+
 }
